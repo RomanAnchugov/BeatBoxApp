@@ -56,7 +56,7 @@ public class BeatBox {
             }
         }
     }
-
+//
     private void load(Sound sound) throws IOException{
         AssetFileDescriptor afd = mAssets.openFd(sound.getmAssetPath());
         int soundId = mSoundPool.load(afd, 1);
