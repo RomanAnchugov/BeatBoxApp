@@ -16,7 +16,7 @@ import java.util.List;
 /**
  * Created by romananchugov on 15.12.2017.
  */
-//new day
+
 public class BeatBoxFragment extends Fragment {
 
     private BeatBox mBeatBox;
